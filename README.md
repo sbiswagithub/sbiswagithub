@@ -47,8 +47,3 @@ I'm always open to connecting with like-minded professionals, discussing excitin
 📧 biswajitofficial9861@gmail.com | 🔗 https://www.linkedin.com/in/biswajit-sahoo-%F0%9F%9A%80-36b639249/ | ⚙️https://github.com/sbiswagithub
 
 Let's build the future of the web together! 🚀✨
-
-🌍  I'm based in India ,Bhubaneswar
-🖥️  See my portfolio at My Portfolio
-✉️  You can contact me at biswajitofficial9861@gmail.com
-🧠  I'm learning React Native
