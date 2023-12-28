@@ -34,7 +34,7 @@ src="https://img.shields.io/github/followers/sbiswagithub?logo=github&style=for-
 
 <a href="http://www.github.com/sbiswagithub"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sbiswagithub&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/sbiswagithub"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sbiswagithub&bg_color=1c1917&color=ffffff&line=facc15&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/sbiswagithub"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1643999148850/TYksn6HXu.png username=sbiswagithub&bg_color=1c1917&color=ffffff&line=facc15&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/sbiswagithub" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbiswagithub&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
